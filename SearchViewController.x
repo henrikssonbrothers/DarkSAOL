@@ -9,8 +9,9 @@
     self.listTableView.backgroundColor = UIColor.blackColor;
     self.searchTableView.backgroundColor = UIColor.blackColor;
 
-    self.searchBar.searchTextField.backgroundColor = UIColor.blackColor;
+    self.searchBar.searchTextField.backgroundColor = nil;
     self.searchBar.searchTextField.textColor = UIColor.whiteColor;
+    self.searchBar.searchTextField.tintColor = UIColor.whiteColor;
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
