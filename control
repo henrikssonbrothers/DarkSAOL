@@ -2,7 +2,7 @@ Package: com.henrikssonbrothers.darksaol
 Name: DarkSAOL
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Dark mode for the SAOL app
 Maintainer: Christoffer Wigforss
 Author: Christoffer Wigforss
 Section: Tweaks
