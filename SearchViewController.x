@@ -12,6 +12,9 @@
     self.searchBar.searchTextField.backgroundColor = nil;
     self.searchBar.searchTextField.textColor = UIColor.whiteColor;
     self.searchBar.searchTextField.tintColor = UIColor.whiteColor;
+
+    self.aiView.backgroundColor = nil;
+    self.aiView.color = UIColor.whiteColor;
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
