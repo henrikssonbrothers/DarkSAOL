@@ -1,6 +1,6 @@
 Package: com.henrikssonbrothers.darksaol
 Name: DarkSAOL
-Version: 0.0.1
+Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Dark mode for the SAOL app
 Maintainer: Christoffer Wigforss
